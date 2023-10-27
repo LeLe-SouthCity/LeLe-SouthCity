@@ -55,12 +55,11 @@
 ### 🏢 Work Experience
 
 <img align="right" width="88" src="https://github.com/LeLe-SouthCity/LeLe-SouthCity/assets/103248258/ad48e175-0960-4d58-b58f-4f3674f8372d" />
-" />
 
 - [广州天耘科技有限公司](https://www.ogcloud.com/) &emsp; 📌 2023-09-11 —— Now
   
   - 工作岗位：产品经理（初级）
-  - 工作内容：
+  - 工作内容：产品技术调研（AI 方向），市场调研，编写产品方案，确定方案可行性
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
 
