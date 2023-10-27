@@ -1,5 +1,3 @@
-<img width="695" alt="企业微信截图_97fb66b8-31e7-4c6b-9f45-1597ee69efb7" src="https://github.com/LeLe-SouthCity/LeLe-SouthCity/assets/103248258/85ec2ad0-fd70-4f86-a53d-4b47b28c2d1c"><div align="center">
-  
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
